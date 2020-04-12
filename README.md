@@ -2,11 +2,11 @@
 
 # JSONViewer
 
+## Current Branch
+Source code of JSONViewer Microsoft Edge Add-on.
+
 ## Description
 format several JSON documents in one window, depends to your screen width, up to 6.
-
-## edge Branch
-Source code of JSONViewer Microsoft Edge Add-on.
 
 ## Preview
 ![Preview](/pic/jsonviewer.png)
