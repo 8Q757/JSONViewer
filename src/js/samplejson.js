@@ -2,7 +2,6 @@ var samplejson = [
     {
         "project": "JSONViewer",
         "description": "make JSON documents easy to read",
-        "author": "oppoic",
         "source code": "https://github.com/oppoic/JSONViewer",
         "download": {
             "Google Chrome": "https://chrome.google.com/webstore/detail/jsonviewer/khbdpaabobknhhlpglenglkkhdmkfnca",
