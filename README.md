@@ -13,7 +13,7 @@ format several JSON documents in one window, depends to your screen width, up to
 ![Preview](/pic/jsonviewer.gif)
 
 ## Installation
-[Click to Redirect](https://chrome.google.com/webstore/detail/jsonviewer/khbdpaabobknhhlpglenglkkhdmkfnca)
+[Click to Redirect](https://microsoftedge.microsoft.com/addons/detail/plbmlbokmdfffnjgepkiknofbbljempm)
 
 ## Thanks
 1. [Bootstrap](https://github.com/twbs/bootstrap)

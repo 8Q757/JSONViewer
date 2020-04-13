@@ -13,7 +13,7 @@
 ![预览](/pic/jsonviewer.gif)
 
 ## 安装
-[点击前往](https://chrome.google.com/webstore/detail/jsonviewer/khbdpaabobknhhlpglenglkkhdmkfnca)
+[点击前往](https://microsoftedge.microsoft.com/addons/detail/plbmlbokmdfffnjgepkiknofbbljempm)
 
 ## 鸣谢
 1. [Bootstrap](https://github.com/twbs/bootstrap)
