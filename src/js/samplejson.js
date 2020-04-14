@@ -7,7 +7,7 @@ var samplejson = [
             "Google Chrome": "https://chrome.google.com/webstore/detail/jsonviewer/khbdpaabobknhhlpglenglkkhdmkfnca",
             "Microsoft Edge": "https://microsoftedge.microsoft.com/addons/detail/plbmlbokmdfffnjgepkiknofbbljempm",
             "Firefox": "https://addons.mozilla.org/zh-CN/firefox/addon/jsonviewpro/",
-            "360": "-"
+            "360": "https://www.cnblogs.com/oppoic/p/10444012.html"
         }
     },
     {
