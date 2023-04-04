@@ -6,7 +6,7 @@
 # JSONViewer
 
 ## Description
-format several JSON documents in one window, depends to your screen width, up to 6.
+Chrome Extension, Format several JSON documents in one window, depends to your screen width, up to 6.
 
 ## Source Code
 Switch branch to check the source code.
