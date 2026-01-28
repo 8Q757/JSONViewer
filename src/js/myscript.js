@@ -219,22 +219,22 @@ function getMaxBoxCount() {
     var screenWidth = $(window).width();
 
     var maxBoxCount = 0;
-    if (screenWidth < 1024) {
+    if (screenWidth < 1000) {
         maxBoxCount = 1;
     }
-    else if (screenWidth >= 1024 && screenWidth < 1900) {
+    else if (screenWidth >= 1000 && screenWidth < 1900) {
         maxBoxCount = 2;
     }
-    else if (screenWidth >= 1900 && screenWidth < 2560) {//1080p
+    else if (screenWidth >= 1900 && screenWidth < 2500) {//1080p
         maxBoxCount = 3;
     }
-    else if (screenWidth >= 2560 && screenWidth < 3840) {//2k
+    else if (screenWidth >= 2500 && screenWidth < 3800) {//2k
         maxBoxCount = 4;
     }
-    else if (screenWidth >= 3840 && screenWidth < 5120) {//4k
+    else if (screenWidth >= 3800 && screenWidth < 5100) {//4k
         maxBoxCount = 5;
     }
-    else if (screenWidth >= 5120) {//5k
+    else if (screenWidth >= 5100) {//5k
         maxBoxCount = 6;
     }
     return maxBoxCount;
