@@ -222,19 +222,19 @@ function getMaxBoxCount() {
     if (screenWidth < 1000) {
         maxBoxCount = 1;
     }
-    else if (screenWidth >= 1000 && screenWidth < 1900) {
+    else if (screenWidth >= 1000 && screenWidth < 1700) {
         maxBoxCount = 2;
     }
-    else if (screenWidth >= 1900 && screenWidth < 2500) {//1080p
+    else if (screenWidth >= 1700 && screenWidth < 2400) {
         maxBoxCount = 3;
     }
-    else if (screenWidth >= 2500 && screenWidth < 3800) {//2k
+    else if (screenWidth >= 2400 && screenWidth < 3100) {
         maxBoxCount = 4;
     }
-    else if (screenWidth >= 3800 && screenWidth < 5100) {//4k
+    else if (screenWidth >= 3100 && screenWidth < 3800) {
         maxBoxCount = 5;
     }
-    else if (screenWidth >= 5100) {//5k
+    else if (screenWidth >= 3800) {
         maxBoxCount = 6;
     }
     return maxBoxCount;
